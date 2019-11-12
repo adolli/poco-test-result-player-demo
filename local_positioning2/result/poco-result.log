@@ -1,0 +1,15 @@
+{"tag": "runnerRuntimeLog", "ts": 1521183160.654, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183160.658, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa824dc8> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183160.658, "value": {"content": "waiting for connection...0"}}
+{"tag": "record", "ts": 1521183165.297, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521183165.299, "value": {"lineno": 9, "filename": "local_positioning2.py"}}
+{"tag": "trace", "ts": 1521183165.299, "value": {"lineno": 10, "filename": "local_positioning2.py"}}
+{"tag": "action", "ts": 1521183165.336, "value": {"action": "bounding", "tid": 176384040, "bounds": [0.6388889219999999, 0.8369791805000001, 0.6944444779999999, 0.7078125175000001]}}
+{"tag": "action", "ts": 1521183165.336, "value": {"origin": [0.772395849, 0.47222225399999995], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning2.py", "tid": 176384040, "lineno": 10, "action": "click", "targetDescription": "UIObjectProxy of \"text=balloonfish\""}}
+{"tag": "action", "ts": 1521183168.697, "value": {"action": "clear", "tid": 176384040}}
+{"tag": "trace", "ts": 1521183168.698, "value": {"lineno": 11, "filename": "local_positioning2.py"}}
+{"tag": "record", "ts": 1521183168.898, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183171.097, "value": {"content": "EndOfStream: 176429896"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183172.361, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521183172.382, "value": {"content": "<LoopThread(simplerpc_update, started daemon 20328)> finished"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183172.384, "value": {"content": "EndOfStream: minitouch_server"}}

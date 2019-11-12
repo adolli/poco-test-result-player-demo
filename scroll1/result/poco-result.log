@@ -1,0 +1,25 @@
+{"tag": "runnerRuntimeLog", "ts": 1521188883.851, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188883.856, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa776d48> is connectedwaiting for connection...0"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188884.356, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521188888.996, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521188888.998, "value": {"lineno": 9, "filename": "scroll1.py"}}
+{"tag": "action", "ts": 1521188889.06, "value": {"action": "bounding", "tid": 175663088, "bounds": [0.259722208, 0.44036458749999996, 0.731018508, 0.1752604125]}}
+{"tag": "action", "ts": 1521188889.06, "value": {"origin": [0.3078125, 0.495370358], "direction": [0, -0.1], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/scroll1.py", "tid": 175663088, "lineno": 9, "action": "swipe", "targetDescription": "UIObjectProxy of \"Scroll View\""}}
+{"tag": "action", "ts": 1521188891.045, "value": {"action": "clear", "tid": 175663088}}
+{"tag": "trace", "ts": 1521188891.045, "value": {"lineno": 10, "filename": "scroll1.py"}}
+{"tag": "action", "ts": 1521188891.097, "value": {"action": "bounding", "tid": 175663088, "bounds": [0.259722208, 0.44036458749999996, 0.731018508, 0.1752604125]}}
+{"tag": "action", "ts": 1521188891.097, "value": {"origin": [0.3078125, 0.495370358], "direction": [0, -0.1], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/scroll1.py", "tid": 175663088, "lineno": 10, "action": "swipe", "targetDescription": "UIObjectProxy of \"Scroll View\""}}
+{"tag": "action", "ts": 1521188891.684, "value": {"action": "clear", "tid": 175663088}}
+{"tag": "trace", "ts": 1521188891.684, "value": {"lineno": 11, "filename": "scroll1.py"}}
+{"tag": "action", "ts": 1521188891.726, "value": {"action": "bounding", "tid": 175663088, "bounds": [0.259722208, 0.44036458749999996, 0.731018508, 0.1752604125]}}
+{"tag": "action", "ts": 1521188891.726, "value": {"origin": [0.3078125, 0.495370358], "direction": [0, 0.1], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/scroll1.py", "tid": 175663088, "lineno": 11, "action": "swipe", "targetDescription": "UIObjectProxy of \"Scroll View\""}}
+{"tag": "action", "ts": 1521188892.318, "value": {"action": "clear", "tid": 175663088}}
+{"tag": "trace", "ts": 1521188892.318, "value": {"lineno": 14, "filename": "scroll1.py"}}
+{"tag": "trace", "ts": 1521188892.37, "value": {"lineno": 15, "filename": "scroll1.py"}}
+{"tag": "trace", "ts": 1521188892.37, "value": {"lineno": 16, "filename": "scroll1.py"}}
+{"tag": "trace", "ts": 1521188892.37, "value": {"lineno": 17, "filename": "scroll1.py"}}
+{"tag": "trace", "ts": 1521188894.439, "value": {"lineno": 18, "filename": "scroll1.py"}}
+{"tag": "record", "ts": 1521188896.515, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188898.73, "value": {"content": "EndOfStream: 176761544"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188900.399, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521188900.425, "value": {"content": "<LoopThread(simplerpc_update, started daemon 23764)> finished"}}

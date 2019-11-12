@@ -1,0 +1,15 @@
+{"tag": "runnerRuntimeLog", "ts": 1521189659.54, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189659.544, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa68ed88> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189659.544, "value": {"content": "waiting for connection...0"}}
+{"tag": "record", "ts": 1521189664.038, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521189664.04, "value": {"lineno": 9, "filename": "scroll2.py"}}
+{"tag": "trace", "ts": 1521189664.041, "value": {"lineno": 10, "filename": "scroll2.py"}}
+{"tag": "action", "ts": 1521189664.147, "value": {"action": "bounding", "tid": 174716912, "bounds": [0.259722208, 0.44036458749999996, 0.731018508, 0.1752604125]}}
+{"tag": "action", "ts": 1521189664.147, "value": {"origin": [0.3078125, 0.636759248], "direction": [0.0, -0.28277778000000003], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/scroll2.py", "tid": 174716912, "lineno": 10, "action": "swipe", "targetDescription": "UIObjectProxy of \"Scroll View\""}}
+{"tag": "action", "ts": 1521189667.551, "value": {"action": "clear", "tid": 174716912}}
+{"tag": "trace", "ts": 1521189667.551, "value": {"lineno": 11, "filename": "scroll2.py"}}
+{"tag": "record", "ts": 1521189668.552, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189670.793, "value": {"content": "EndOfStream: 175856392"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189672.063, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521189672.115, "value": {"content": "<LoopThread(simplerpc_update, started daemon 24304)> finished"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189672.116, "value": {"content": "EndOfStream: minitouch_server"}}

@@ -1,0 +1,100 @@
+{"tag": "runnerRuntimeLog", "ts": 1521183079.804, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183079.808, "value": {"content": "waiting for connection...0"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183079.808, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa63bdc8> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183080.308, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521183084.972, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521183084.974, "value": {"lineno": 24, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183084.975, "value": {"lineno": 9, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.035, "value": {"lineno": 10, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.035, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.039, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.039, "value": {"content": "Item 0"}}
+{"tag": "trace", "ts": 1521183085.039, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.039, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.039, "value": {"content": "Item 1"}}
+{"tag": "trace", "ts": 1521183085.039, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.039, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.04, "value": {"content": "Item 2"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.04, "value": {"content": "Item 3"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.04, "value": {"content": "Item 4"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.04, "value": {"content": "Item 5"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.04, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.041, "value": {"content": "Item 6"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.041, "value": {"content": "Item 7"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.041, "value": {"content": "Item 8"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.041, "value": {"content": "Item 9"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.041, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.042, "value": {"content": "Item 10"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.042, "value": {"content": "Item 11"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 12, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.042, "value": {"content": "Item 12"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 11, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 13, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.042, "value": {"lineno": 14, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.042, "value": {"content": "0.00699996948242"}}
+{"tag": "trace", "ts": 1521183085.043, "value": {"lineno": 25, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.043, "value": {"lineno": 17, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.043, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.086, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.086, "value": {"content": "Item 0"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.087, "value": {"content": "Item 1"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.087, "value": {"content": "Item 2"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.087, "value": {"content": "Item 3"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.087, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.087, "value": {"content": "Item 4"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.088, "value": {"content": "Item 5"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.088, "value": {"content": "Item 6"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.088, "value": {"content": "Item 7"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.088, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.089, "value": {"content": "Item 8"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.089, "value": {"content": "Item 9"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.089, "value": {"content": "Item 10"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.089, "value": {"content": "Item 11"}}
+{"tag": "trace", "ts": 1521183085.089, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.09, "value": {"lineno": 19, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.09, "value": {"content": "Item 12"}}
+{"tag": "trace", "ts": 1521183085.09, "value": {"lineno": 18, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.09, "value": {"lineno": 20, "filename": "frozen_ui.py"}}
+{"tag": "trace", "ts": 1521183085.09, "value": {"lineno": 21, "filename": "frozen_ui.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183085.09, "value": {"content": "0.0469999313354"}}
+{"tag": "record", "ts": 1521183085.09, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183087.176, "value": {"content": "EndOfStream: 175446856"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183088.309, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521183088.319, "value": {"content": "<LoopThread(simplerpc_update, started daemon 23912)> finished"}}

@@ -1,0 +1,92 @@
+{"tag": "runnerRuntimeLog", "ts": 1521189818.312, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189818.316, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa84fd48> is connectedwaiting for connection...0"}}
+{"tag": "record", "ts": 1521189822.943, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521189822.945, "value": {"lineno": 9, "filename": "wait_any_ui.py"}}
+{"tag": "action", "ts": 1521189822.981, "value": {"action": "bounding", "tid": 176551920, "bounds": [0.662037, 0.212239585, 0.762037, 0.090885415]}}
+{"tag": "action", "ts": 1521189822.981, "value": {"origin": [0.1515625, 0.712037], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_any_ui.py", "tid": 176551920, "lineno": 9, "action": "click", "targetDescription": "UIObjectProxy of \"text=wait UI\""}}
+{"tag": "action", "ts": 1521189824.55, "value": {"action": "clear", "tid": 176551920}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 11, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189824.55, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189826.126, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189826.127, "value": {"lineno": 22, "filename": "wait_any_ui.py"}}
+{"tag": "action", "ts": 1521189826.127, "value": {"action": "bounding", "tid": 43356960, "bounds": [0.685678318, 0.9643337850000001, 0.93475239, 0.8221462850000001]}}
+{"tag": "action", "ts": 1521189826.127, "value": {"origin": [0.893240035, 0.810215354], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_any_ui.py", "tid": 43356960, "lineno": 22, "action": "click", "targetDescription": "UIObjectProxy of \"fish_emitter/blue\""}}
+{"tag": "action", "ts": 1521189826.338, "value": {"action": "clear", "tid": 43356960}}
+{"tag": "trace", "ts": 1521189826.338, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189828.838, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189828.839, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189828.839, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189828.839, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189828.839, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189832.084, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189832.084, "value": {"lineno": 18, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189832.084, "value": {"lineno": 19, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189832.084, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189834.585, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189834.585, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189834.585, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189834.585, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189834.585, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189836.233, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189836.233, "value": {"lineno": 18, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189836.233, "value": {"lineno": 19, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189836.233, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189838.733, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189838.733, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189838.733, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189838.733, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189838.733, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189841.979, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189841.979, "value": {"lineno": 18, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189841.979, "value": {"lineno": 19, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189841.979, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189844.479, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189844.48, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189844.48, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189844.48, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189844.48, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189846.127, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189846.127, "value": {"lineno": 22, "filename": "wait_any_ui.py"}}
+{"tag": "action", "ts": 1521189846.128, "value": {"action": "bounding", "tid": 177401808, "bounds": [0.676274764, 0.95793145, 0.925348836, 0.81574395]}}
+{"tag": "action", "ts": 1521189846.128, "value": {"origin": [0.8868377, 0.8008118], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_any_ui.py", "tid": 177401808, "lineno": 22, "action": "click", "targetDescription": "UIObjectProxy of \"fish_emitter/yellow\""}}
+{"tag": "action", "ts": 1521189846.36, "value": {"action": "clear", "tid": 177401808}}
+{"tag": "trace", "ts": 1521189846.36, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189848.86, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189848.86, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189848.86, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189848.86, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189848.86, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189852.07, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189852.07, "value": {"lineno": 22, "filename": "wait_any_ui.py"}}
+{"tag": "action", "ts": 1521189852.071, "value": {"action": "bounding", "tid": 177401696, "bounds": [0.381830464, 0.5958865999999999, 0.630904536, 0.45369909999999997]}}
+{"tag": "action", "ts": 1521189852.071, "value": {"origin": [0.52479285, 0.5063675], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_any_ui.py", "tid": 177401696, "lineno": 22, "action": "click", "targetDescription": "UIObjectProxy of \"fish_emitter/yellow\""}}
+{"tag": "action", "ts": 1521189852.281, "value": {"action": "clear", "tid": 177401696}}
+{"tag": "trace", "ts": 1521189852.281, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189854.781, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189854.781, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189854.781, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189854.781, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189854.781, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189856.37, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189856.371, "value": {"lineno": 22, "filename": "wait_any_ui.py"}}
+{"tag": "action", "ts": 1521189856.371, "value": {"action": "bounding", "tid": 177400352, "bounds": [0.554800064, 0.868625116, 0.803874136, 0.726437616]}}
+{"tag": "action", "ts": 1521189856.371, "value": {"origin": [0.797531366, 0.6793371], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_any_ui.py", "tid": 177400352, "lineno": 22, "action": "click", "targetDescription": "UIObjectProxy of \"fish_emitter/blue\""}}
+{"tag": "action", "ts": 1521189856.582, "value": {"action": "clear", "tid": 177400352}}
+{"tag": "trace", "ts": 1521189856.582, "value": {"lineno": 23, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189859.082, "value": {"lineno": 12, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189859.082, "value": {"lineno": 13, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189859.082, "value": {"lineno": 14, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189859.082, "value": {"lineno": 15, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189859.082, "value": {"lineno": 16, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189862.31, "value": {"lineno": 17, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189862.31, "value": {"lineno": 18, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189862.31, "value": {"lineno": 19, "filename": "wait_any_ui.py"}}
+{"tag": "trace", "ts": 1521189862.311, "value": {"lineno": 20, "filename": "wait_any_ui.py"}}
+{"tag": "record", "ts": 1521189862.311, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189864.456, "value": {"content": "EndOfStream: 177568456"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189866.336, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521189866.359, "value": {"content": "<LoopThread(simplerpc_update, started daemon 20372)> finished"}}

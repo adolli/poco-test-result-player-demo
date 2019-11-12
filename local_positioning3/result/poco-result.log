@@ -1,0 +1,19 @@
+{"tag": "runnerRuntimeLog", "ts": 1521176027.515, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521176027.52, "value": {"content": "waiting for connection...0<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa8fdc08> is connected"}}
+{"tag": "record", "ts": 1521176032.19, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521176032.192, "value": {"lineno": 10, "filename": "local_positioning3.py"}}
+{"tag": "trace", "ts": 1521176032.192, "value": {"lineno": 11, "filename": "local_positioning3.py"}}
+{"tag": "trace", "ts": 1521176032.192, "value": {"lineno": 12, "filename": "local_positioning3.py"}}
+{"tag": "action", "ts": 1521176032.254, "value": {"action": "bounding", "tid": 177261144, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521176032.254, "value": {"origin": [0.501041651, 0.436111122], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning3.py", "tid": 177261144, "lineno": 12, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521176035.646, "value": {"action": "clear", "tid": 177261144}}
+{"tag": "trace", "ts": 1521176035.646, "value": {"lineno": 13, "filename": "local_positioning3.py"}}
+{"tag": "trace", "ts": 1521176035.846, "value": {"lineno": 14, "filename": "local_positioning3.py"}}
+{"tag": "action", "ts": 1521176035.903, "value": {"action": "bounding", "tid": 177261088, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521176035.903, "value": {"origin": [0.608072901, 0.436111122], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning3.py", "tid": 177261088, "lineno": 14, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521176038.005, "value": {"action": "clear", "tid": 177261088}}
+{"tag": "trace", "ts": 1521176038.005, "value": {"lineno": 15, "filename": "local_positioning3.py"}}
+{"tag": "record", "ts": 1521176038.205, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521176040.332, "value": {"content": "EndOfStream: 178317896"}}
+{"tag": "runnerRuntimeLog", "ts": 1521176041.796, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521176041.818, "value": {"content": "<LoopThread(simplerpc_update, started daemon 20444)> finished"}}

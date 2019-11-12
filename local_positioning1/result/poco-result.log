@@ -1,0 +1,30 @@
+{"tag": "runnerRuntimeLog", "ts": 1521183115.015, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183115.019, "value": {"content": "waiting for connection...0"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183115.019, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa7bddc8> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183115.519, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521183120.093, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521183120.095, "value": {"lineno": 9, "filename": "local_positioning1.py"}}
+{"tag": "trace", "ts": 1521183120.096, "value": {"lineno": 10, "filename": "local_positioning1.py"}}
+{"tag": "action", "ts": 1521183120.139, "value": {"action": "bounding", "tid": 175962096, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521183120.139, "value": {"origin": [0.501041651, 0.436111122], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning1.py", "tid": 175962096, "lineno": 10, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521183123.5, "value": {"action": "clear", "tid": 175962096}}
+{"tag": "trace", "ts": 1521183123.5, "value": {"lineno": 11, "filename": "local_positioning1.py"}}
+{"tag": "trace", "ts": 1521183123.7, "value": {"lineno": 12, "filename": "local_positioning1.py"}}
+{"tag": "action", "ts": 1521183123.737, "value": {"action": "bounding", "tid": 175962096, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521183123.737, "value": {"origin": [0.41541665099999997, 0.283888894], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning1.py", "tid": 175962096, "lineno": 12, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521183125.838, "value": {"action": "clear", "tid": 175962096}}
+{"tag": "trace", "ts": 1521183125.839, "value": {"lineno": 13, "filename": "local_positioning1.py"}}
+{"tag": "trace", "ts": 1521183126.039, "value": {"lineno": 14, "filename": "local_positioning1.py"}}
+{"tag": "action", "ts": 1521183126.091, "value": {"action": "bounding", "tid": 175962096, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521183126.091, "value": {"origin": [0.586666651, 0.5883333500000001], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning1.py", "tid": 175962096, "lineno": 14, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521183128.193, "value": {"action": "clear", "tid": 175962096}}
+{"tag": "trace", "ts": 1521183128.193, "value": {"lineno": 15, "filename": "local_positioning1.py"}}
+{"tag": "trace", "ts": 1521183128.393, "value": {"lineno": 16, "filename": "local_positioning1.py"}}
+{"tag": "action", "ts": 1521183128.446, "value": {"action": "bounding", "tid": 175962096, "bounds": [0.245833337, 0.6080729009999999, 0.626388907, 0.39401040099999995]}}
+{"tag": "action", "ts": 1521183128.446, "value": {"origin": [0.501041651, 0.5883333500000001], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/local_positioning1.py", "tid": 175962096, "lineno": 16, "action": "click", "targetDescription": "UIObjectProxy of \"fish/type=Image\""}}
+{"tag": "action", "ts": 1521183130.547, "value": {"action": "clear", "tid": 175962096}}
+{"tag": "trace", "ts": 1521183130.547, "value": {"lineno": 17, "filename": "local_positioning1.py"}}
+{"tag": "record", "ts": 1521183130.747, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183132.877, "value": {"content": "EndOfStream: 176012104"}}
+{"tag": "runnerRuntimeLog", "ts": 1521183134.506, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521183134.526, "value": {"content": "<LoopThread(simplerpc_update, started daemon 25712)> finished"}}

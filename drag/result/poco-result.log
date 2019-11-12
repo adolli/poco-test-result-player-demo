@@ -1,0 +1,12 @@
+{"tag": "runnerRuntimeLog", "ts": 1521182904.047, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182904.054, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa5f5d88> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182904.054, "value": {"content": "waiting for connection...0"}}
+{"tag": "record", "ts": 1521182908.824, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521182908.826, "value": {"lineno": 8, "filename": "drag.py"}}
+{"tag": "action", "ts": 1521182908.908, "value": {"action": "bounding", "tid": 174090224, "bounds": [0.19638887800000004, 0.22239583000000002, 0.427870356, 0.09218750199999999]}}
+{"tag": "action", "ts": 1521182908.908, "value": {"origin": [0.157291666, 0.312129617], "direction": [0.346874997, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/drag.py", "tid": 174090224, "lineno": 8, "action": "swipe", "targetDescription": "UIObjectProxy of \"star\""}}
+{"tag": "action", "ts": 1521182912.311, "value": {"action": "clear", "tid": 174090224}}
+{"tag": "record", "ts": 1521182912.311, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182914.449, "value": {"content": "EndOfStream: 174148360"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182915.765, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521182915.783, "value": {"content": "<LoopThread(simplerpc_update, started daemon 26616)> finished"}}

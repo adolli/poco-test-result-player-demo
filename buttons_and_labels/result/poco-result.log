@@ -1,0 +1,35 @@
+{"tag": "runnerRuntimeLog", "ts": 1521182506.743, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182506.748, "value": {"content": "waiting for connection...0"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182506.748, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa7a4d88> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182507.248, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521182511.919, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521182511.92, "value": {"lineno": 9, "filename": "buttons_and_labels.py"}}
+{"tag": "action", "ts": 1521182511.986, "value": {"action": "bounding", "tid": 175855600, "bounds": [0.301620379, 0.552395832, 0.409490749, 0.447604168]}}
+{"tag": "action", "ts": 1521182511.987, "value": {"origin": [0.5, 0.355555564], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/buttons_and_labels.py", "tid": 175855600, "lineno": 9, "action": "click", "targetDescription": "UIObjectProxy of \"btn_start\""}}
+{"tag": "action", "ts": 1521182513.593, "value": {"action": "clear", "tid": 175855600}}
+{"tag": "trace", "ts": 1521182513.593, "value": {"lineno": 10, "filename": "buttons_and_labels.py"}}
+{"tag": "action", "ts": 1521182513.644, "value": {"action": "bounding", "tid": 175855600, "bounds": [0.16296296999999998, 0.212239585, 0.26296297, 0.090885415]}}
+{"tag": "action", "ts": 1521182513.644, "value": {"origin": [0.1515625, 0.21296297], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/buttons_and_labels.py", "tid": 175855600, "lineno": 10, "action": "click", "targetDescription": "UIObjectProxy of \"text=basic\""}}
+{"tag": "action", "ts": 1521182513.854, "value": {"action": "clear", "tid": 175855600}}
+{"tag": "trace", "ts": 1521182513.854, "value": {"lineno": 12, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182513.854, "value": {"lineno": 13, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182513.899, "value": {"lineno": 14, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182513.9, "value": {"lineno": 15, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182513.9, "value": {"lineno": 16, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182514.9, "value": {"lineno": 17, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182514.956, "value": {"lineno": 18, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182517.956, "value": {"lineno": 20, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182517.997, "value": {"lineno": 21, "filename": "buttons_and_labels.py"}}
+{"tag": "trace", "ts": 1521182517.997, "value": {"lineno": 22, "filename": "buttons_and_labels.py"}}
+{"tag": "action", "ts": 1521182518.028, "value": {"action": "bounding", "tid": 176795096, "bounds": [0.82823911, 0.10495743125000001, 0.8935490899999999, 0.04985212875]}}
+{"tag": "action", "ts": 1521182518.028, "value": {"origin": [0.07740478, 0.8608941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/buttons_and_labels.py", "tid": 176795096, "lineno": 22, "action": "click", "targetDescription": "UIObjectProxy of \"type=Button&btn_back\""}}
+{"tag": "action", "ts": 1521182518.239, "value": {"action": "clear", "tid": 176795096}}
+{"tag": "trace", "ts": 1521182518.239, "value": {"lineno": 23, "filename": "buttons_and_labels.py"}}
+{"tag": "action", "ts": 1521182518.27, "value": {"action": "bounding", "tid": 176795096, "bounds": [0.82823911, 0.10495743125000001, 0.8935490899999999, 0.04985212875]}}
+{"tag": "action", "ts": 1521182518.271, "value": {"origin": [0.07740478, 0.8608941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/buttons_and_labels.py", "tid": 176795096, "lineno": 23, "action": "click", "targetDescription": "UIObjectProxy of \"type=Button&btn_back\""}}
+{"tag": "action", "ts": 1521182518.481, "value": {"action": "clear", "tid": 176795096}}
+{"tag": "record", "ts": 1521182518.481, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182520.693, "value": {"content": "EndOfStream: 175901448"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182521.987, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521182522.011, "value": {"content": "<LoopThread(simplerpc_update, started daemon 15052)> finished"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182522.012, "value": {"content": "EndOfStream: minitouch_server"}}

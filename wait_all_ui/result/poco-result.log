@@ -1,0 +1,21 @@
+{"tag": "runnerRuntimeLog", "ts": 1521189713.238, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189713.243, "value": {"content": "waiting for connection...0<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa612d48> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189713.743, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521189718.539, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521189718.541, "value": {"lineno": 9, "filename": "wait_all_ui.py"}}
+{"tag": "action", "ts": 1521189718.603, "value": {"action": "bounding", "tid": 174204968, "bounds": [0.16296296999999998, 0.37942708499999994, 0.26296297, 0.25807291499999996]}}
+{"tag": "action", "ts": 1521189718.603, "value": {"origin": [0.31875, 0.21296297], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_all_ui.py", "tid": 174204968, "lineno": 9, "action": "click", "targetDescription": "UIObjectProxy of \"text=wait UI 2\""}}
+{"tag": "action", "ts": 1521189720.217, "value": {"action": "clear", "tid": 174204968}}
+{"tag": "trace", "ts": 1521189720.217, "value": {"lineno": 11, "filename": "wait_all_ui.py"}}
+{"tag": "trace", "ts": 1521189720.217, "value": {"lineno": 12, "filename": "wait_all_ui.py"}}
+{"tag": "trace", "ts": 1521189720.217, "value": {"lineno": 13, "filename": "wait_all_ui.py"}}
+{"tag": "trace", "ts": 1521189720.217, "value": {"lineno": 15, "filename": "wait_all_ui.py"}}
+{"tag": "trace", "ts": 1521189721.762, "value": {"lineno": 16, "filename": "wait_all_ui.py"}}
+{"tag": "action", "ts": 1521189721.783, "value": {"action": "bounding", "tid": 174204968, "bounds": [0.82823911, 0.10495743125000001, 0.8935490899999999, 0.04985212875]}}
+{"tag": "action", "ts": 1521189721.783, "value": {"origin": [0.07740478, 0.8608941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/wait_all_ui.py", "tid": 174204968, "lineno": 16, "action": "click", "targetDescription": "UIObjectProxy of \"btn_back\""}}
+{"tag": "action", "ts": 1521189721.994, "value": {"action": "clear", "tid": 174204968}}
+{"tag": "trace", "ts": 1521189721.994, "value": {"lineno": 17, "filename": "wait_all_ui.py"}}
+{"tag": "record", "ts": 1521189724.494, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189726.6, "value": {"content": "EndOfStream: 175295176"}}
+{"tag": "runnerRuntimeLog", "ts": 1521189727.841, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521189727.861, "value": {"content": "<LoopThread(simplerpc_update, started daemon 24452)> finished"}}

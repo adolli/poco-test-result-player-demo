@@ -1,0 +1,53 @@
+{"tag": "runnerRuntimeLog", "ts": 1521188704.177, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188704.183, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa79de48> is connectedwaiting for connection...0"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188704.683, "value": {"content": "waiting for connection...1"}}
+{"tag": "record", "ts": 1521188709.302, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521188709.304, "value": {"lineno": 9, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188710.104, "value": {"action": "bounding", "tid": 175826984, "bounds": [0.301620379, 0.552395832, 0.409490749, 0.447604168]}}
+{"tag": "action", "ts": 1521188710.105, "value": {"origin": [0.5, 0.355555564], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 175826984, "lineno": 9, "action": "click", "targetDescription": "UIObjectProxy of \"btn_start\""}}
+{"tag": "action", "ts": 1521188711.622, "value": {"action": "clear", "tid": 175826984}}
+{"tag": "trace", "ts": 1521188711.622, "value": {"lineno": 10, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188712.622, "value": {"lineno": 12, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188712.684, "value": {"action": "bounding", "tid": 175826984, "bounds": [0.287962955, 0.212239585, 0.387962955, 0.090885415]}}
+{"tag": "action", "ts": 1521188712.684, "value": {"origin": [0.1515625, 0.337962955], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 175826984, "lineno": 12, "action": "click", "targetDescription": "UIObjectProxy of \"text matches drag.*\""}}
+{"tag": "action", "ts": 1521188712.894, "value": {"action": "clear", "tid": 175826984}}
+{"tag": "trace", "ts": 1521188712.894, "value": {"lineno": 13, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188713.894, "value": {"lineno": 15, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188713.894, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188713.935, "value": {"lineno": 17, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188713.971, "value": {"action": "bounding", "tid": 176799080, "bounds": [0.19638887800000004, 0.22239583000000002, 0.427870356, 0.09218750199999999]}}
+{"tag": "action", "ts": 1521188713.971, "value": {"origin": [0.157291666, 0.312129617], "direction": [0.346874997, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 176799080, "lineno": 17, "action": "swipe", "targetDescription": "UIObjectProxy of \"star[0]\""}}
+{"tag": "action", "ts": 1521188716.047, "value": {"action": "clear", "tid": 176799080}}
+{"tag": "trace", "ts": 1521188716.047, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188716.048, "value": {"lineno": 17, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188716.048, "value": {"action": "bounding", "tid": 176799472, "bounds": [0.19638887800000004, 0.40104166399999996, 0.427870356, 0.270833336]}}
+{"tag": "action", "ts": 1521188716.048, "value": {"origin": [0.3359375, 0.312129617], "direction": [0.16822916300000001, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 176799472, "lineno": 17, "action": "swipe", "targetDescription": "UIObjectProxy of \"star[1]\""}}
+{"tag": "action", "ts": 1521188718.141, "value": {"action": "clear", "tid": 176799472}}
+{"tag": "trace", "ts": 1521188718.142, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188718.142, "value": {"lineno": 17, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188718.142, "value": {"action": "bounding", "tid": 176797456, "bounds": [0.19638887800000004, 0.576562501, 0.427870356, 0.44635417299999997]}}
+{"tag": "action", "ts": 1521188718.142, "value": {"origin": [0.511458337, 0.312129617], "direction": [-0.00729167399999997, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 176797456, "lineno": 17, "action": "swipe", "targetDescription": "UIObjectProxy of \"star[2]\""}}
+{"tag": "action", "ts": 1521188720.216, "value": {"action": "clear", "tid": 176797456}}
+{"tag": "trace", "ts": 1521188720.216, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188720.217, "value": {"lineno": 17, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188720.217, "value": {"action": "bounding", "tid": 176799416, "bounds": [0.19638887800000004, 0.7557291640000001, 0.427870356, 0.6255208360000001]}}
+{"tag": "action", "ts": 1521188720.217, "value": {"origin": [0.690625, 0.312129617], "direction": [-0.18645833700000003, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 176799416, "lineno": 17, "action": "swipe", "targetDescription": "UIObjectProxy of \"star[3]\""}}
+{"tag": "action", "ts": 1521188722.302, "value": {"action": "clear", "tid": 176799416}}
+{"tag": "trace", "ts": 1521188722.302, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188722.303, "value": {"lineno": 17, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188722.303, "value": {"action": "bounding", "tid": 176799528, "bounds": [0.19638887800000004, 0.9374999640000001, 0.427870356, 0.8072916360000001]}}
+{"tag": "action", "ts": 1521188722.303, "value": {"origin": [0.8723958, 0.312129617], "direction": [-0.36822913700000004, 0.393425941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 176799528, "lineno": 17, "action": "swipe", "targetDescription": "UIObjectProxy of \"star[4]\""}}
+{"tag": "action", "ts": 1521188724.426, "value": {"action": "clear", "tid": 176799528}}
+{"tag": "trace", "ts": 1521188724.426, "value": {"lineno": 16, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188724.427, "value": {"lineno": 18, "filename": "overview.py"}}
+{"tag": "trace", "ts": 1521188725.427, "value": {"lineno": 20, "filename": "overview.py"}}
+{"tag": "assertion", "ts": 1521188725.483, "value": {"srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "args": ["100", "100"], "lineno": 20, "msg": "score correct.", "type": "Equal", "method": "assert"}}
+{"tag": "trace", "ts": 1521188725.483, "value": {"lineno": 21, "filename": "overview.py"}}
+{"tag": "action", "ts": 1521188725.544, "value": {"action": "bounding", "tid": 175826984, "bounds": [0.82823911, 0.10495743125000001, 0.8935490899999999, 0.04985212875]}}
+{"tag": "action", "ts": 1521188725.544, "value": {"origin": [0.07740478, 0.8608941], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/overview.py", "tid": 175826984, "lineno": 21, "action": "click", "targetDescription": "UIObjectProxy of \"type=Button&btn_back\""}}
+{"tag": "action", "ts": 1521188725.755, "value": {"action": "clear", "tid": 175826984}}
+{"tag": "trace", "ts": 1521188725.755, "value": {"lineno": 24, "filename": "overview.py"}}
+{"tag": "record", "ts": 1521188727.755, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188729.974, "value": {"content": "EndOfStream: 176962504"}}
+{"tag": "runnerRuntimeLog", "ts": 1521188731.678, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521188731.698, "value": {"content": "<LoopThread(simplerpc_update, started daemon 23868)> finished"}}

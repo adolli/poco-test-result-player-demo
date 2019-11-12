@@ -1,0 +1,12 @@
+{"tag": "runnerRuntimeLog", "ts": 1521182856.901, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182856.905, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa844dc8> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182856.905, "value": {"content": "waiting for connection...0"}}
+{"tag": "record", "ts": 1521182861.723, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521182861.725, "value": {"lineno": 8, "filename": "click.py"}}
+{"tag": "action", "ts": 1521182861.755, "value": {"action": "bounding", "tid": 176515112, "bounds": [0.301620379, 0.552395832, 0.409490749, 0.447604168]}}
+{"tag": "action", "ts": 1521182861.755, "value": {"origin": [0.5, 0.355555564], "srcfilename": "D:/repository/poco/poco/drivers/unity3d/test/tutorial/click.py", "tid": 176515112, "lineno": 8, "action": "click", "targetDescription": "UIObjectProxy of \"btn_start\""}}
+{"tag": "action", "ts": 1521182863.274, "value": {"action": "clear", "tid": 176515112}}
+{"tag": "record", "ts": 1521182863.274, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182865.467, "value": {"content": "EndOfStream: 176565064"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182866.635, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521182866.655, "value": {"content": "<LoopThread(simplerpc_update, started daemon 22968)> finished"}}

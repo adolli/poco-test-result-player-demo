@@ -1,0 +1,24 @@
+{"tag": "runnerRuntimeLog", "ts": 1521182981.074, "value": {"content": "Connecting to host at: ('localhost', 5001)"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182981.078, "value": {"content": "<poco.utils.simplerpc.transport.tcp.asynctcp.Client localhost:5001 at 0xa992d88> is connected"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182981.078, "value": {"content": "waiting for connection...0"}}
+{"tag": "record", "ts": 1521182985.767, "value": {"orientation": "horizontal", "resolution": [1920, 1080], "event": "started", "filename": "screen.mp4"}}
+{"tag": "trace", "ts": 1521182985.769, "value": {"lineno": 10, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182985.769, "value": {"lineno": 11, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182985.769, "value": {"lineno": 12, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182993.231, "value": {"lineno": 13, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182993.231, "value": {"lineno": 14, "filename": "exception2.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182993.231, "value": {"content": "oops!"}}
+{"tag": "trace", "ts": 1521182993.231, "value": {"lineno": 15, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182994.231, "value": {"lineno": 17, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182994.231, "value": {"lineno": 18, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182994.267, "value": {"lineno": 19, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182994.267, "value": {"lineno": 20, "filename": "exception2.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182994.267, "value": {"content": "oops!"}}
+{"tag": "trace", "ts": 1521182994.267, "value": {"lineno": 21, "filename": "exception2.py"}}
+{"tag": "trace", "ts": 1521182995.267, "value": {"lineno": 23, "filename": "exception2.py"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182995.308, "value": {"content": "False"}}
+{"tag": "trace", "ts": 1521182995.308, "value": {"lineno": 24, "filename": "exception2.py"}}
+{"tag": "record", "ts": 1521182995.508, "value": {"event": "stopped"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182997.69, "value": {"content": "EndOfStream: 177937160"}}
+{"tag": "runnerRuntimeLog", "ts": 1521182999.01, "value": {"content": "exiting......."}}
+{"tag": "runnerRuntimeLog", "ts": 1521182999.02, "value": {"content": "<LoopThread(simplerpc_update, started daemon 25064)> finished"}}
